@@ -1,0 +1,9 @@
+ul.twocolumns {
+    display: inline-block;
+}
+
+ul.twocolumns li {
+    float: left;
+    list-style: outside none none;
+    width: 50%;
+}
